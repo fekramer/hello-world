@@ -1,0 +1,26 @@
+{
+  "id": "9b65ca32-3f4c-434a-9cc8-1dec0bfbe24e",
+  "name": "ALProject1",
+  "publisher": "Felix Kramer",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": {
+    "version": "11.0.0.0",
+    "locale": "US"
+  },
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
